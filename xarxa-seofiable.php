@@ -4,7 +4,7 @@ Plugin Name: Xarxa Seo Fiable Footer
 Description: A simple code
 Version: 1.0.1
 Author: Seo Fiable
-GitHub Plugin URI: https://github.com/seofiable/xarxa
+GitHub Plugin URI: https://github.com/seofiable/xarxa.git
 */
 
 function xarxa_seo_fiable_footer_content() {
