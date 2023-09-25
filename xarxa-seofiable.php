@@ -2,7 +2,7 @@
 /*
 Plugin Name: Xarxa Seo Fiable Footer
 Description: A simple code
-Version: 1.0.0
+Version: 1.0.1
 Author: Seo Fiable
 GitHub Plugin URI: https://github.com/seofiable/xarxa
 */
